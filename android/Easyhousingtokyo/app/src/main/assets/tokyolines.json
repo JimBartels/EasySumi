@@ -1,0 +1,2513 @@
+[{
+  "line": "JR Yamanote Line",
+  "id": "kaishaBox_001_rnBox0005",
+  "stations": [
+    ["Tokyo", "la000525620"],
+    ["Yuurakuchou", "la000540650"],
+    ["Shinbashi", "la000520110"],
+    ["Hamamatsuchou", "la000531160"],
+    ["Tamachi", "la000523500"],
+    ["Takanawa geetouei", "la000584570"],
+    ["Shinagawa", "la000517460"],
+    ["Oosaki", "la000505780"],
+    ["Gotanda", "la000514970"],
+    ["Meguro", "la000539110"],
+    ["Ebisu", "la000505050"],
+    ["Shibuya", "la000517640"],
+    ["Harajuku", "la000531250"],
+    ["Yoyogi", "la000541280"],
+    ["Shinjuku", "la000519670"],
+    ["Shin-ookubo", "la000519120"],
+    ["Takadanobaba", "la000522350"],
+    ["Mejiro", "la000539120"],
+    ["Ikebukuro", "la000502060"],
+    ["Ootsuka", "la000506000"],
+    ["Sugamo", "la000520550"],
+    ["Komagome", "la000515330"],
+    ["Tabata", "la000523410"],
+    ["Nishi-nippori", "la000529160"],
+    ["Nippori", "la000529650"],
+    ["Uguisudani", "la000504160"],
+    ["Ueno", "la000504030"],
+    ["Okachimachi", "la000506530"],
+    ["Akihabara", "la000500480"],
+    ["Kanda", "la000510270"]
+  ]
+}, {
+  "line": "JR Keihintohoku Line",
+  "id": "kaishaBox_001_rnBox0125",
+  "stations": [
+    [
+      "Akabane",
+      "la012500380"
+    ],
+    [
+      "Higashijuujou",
+      "la012531960"
+    ],
+    [
+      "Ouji",
+      "la012505180"
+    ],
+    [
+      "Kaminakazato",
+      "la012509240"
+    ],
+    [
+      "Tabata",
+      "la012523410"
+    ],
+    [
+      "Nishi-Nippori",
+      "la012529160"
+    ],
+    [
+      "Nippori",
+      "la012529650"
+    ],
+    [
+      "Uguisudani",
+      "la012504160"
+    ],
+    [
+      "Ueno",
+      "la012504030"
+    ],
+    [
+      "Okachimachi",
+      "la012506530"
+    ],
+    [
+      "Akihabara",
+      "la012500480"
+    ],
+    [
+      "Kanda",
+      "la012510270"
+    ],
+    [
+      "Tokyo",
+      "la012525620"
+    ],
+    [
+      "Yuurakuchou",
+      "la012540650"
+    ],
+    [
+      "Shinbashi",
+      "la012520110"
+    ],
+    [
+      "Hamamatsuchou",
+      "la012531160"
+    ],
+    [
+      "Tamachi",
+      "la012523500"
+    ],
+    [
+      "Takanawa Gateway",
+      "la012584570"
+    ],
+    [
+      "Shinagawa",
+      "la012517460"
+    ],
+    [
+      "Ooimachi",
+      "la012505480"
+    ],
+    [
+      "Oomori",
+      "la012506360"
+    ],
+    [
+      "Kamata",
+      "la012508940"
+    ],
+    [
+      "Kawasaki",
+      "la012509920"
+    ],
+    [
+      "Tsurumi",
+      "la012525070"
+    ],
+    [
+      "Shinkoyasu",
+      "la012519550"
+    ],
+    [
+      "Higashi-kanagawa",
+      "la012531790"
+    ],
+    [
+      "Yokohama",
+      "la012540940"
+    ],
+    [
+      "Sakuragichou",
+      "la012516100"
+    ],
+    [
+      "Kannai",
+      "la012510300"
+    ],
+    [
+      "Ishikawachou",
+      "la012502190"
+    ],
+    [
+      "Yamate",
+      "la012540360"
+    ],
+    [
+      "Negishi",
+      "la012529850"
+    ],
+    [
+      "Isogo",
+      "la012502800"
+    ],
+    [
+      "Shin-sugita",
+      "la012519740"
+    ],
+    [
+      "Youkoudai",
+      "la012540830"
+    ],
+    [
+      "Kounandai",
+      "la012514260"
+    ],
+    [
+      "Hongoudai",
+      "la012535350"
+    ],
+    [
+      "Oofuna",
+      "la012506240"
+    ]
+  ]
+}, {
+  "line": "JR Toukaidou Main Line",
+  "id": "kaishaBox_001_rnBox0160",
+  "stations": [
+    [
+      "Tokyo",
+      "la016025620"
+    ],
+    [
+      "Shinbashi",
+      "la016020110"
+    ],
+    [
+      "Shinagawa",
+      "la016017460"
+    ],
+    [
+      "Kawasaki",
+      "la016009920"
+    ],
+    [
+      "Yokohama",
+      "la016040940"
+    ],
+    [
+      "Totsuka",
+      "la016026210"
+    ],
+    [
+      "Oofuna",
+      "la016006240"
+    ],
+    [
+      "Fujisawa",
+      "la016033900"
+    ],
+    [
+      "Tsujidou",
+      "la016024740"
+    ],
+    [
+      "Chigasaki",
+      "la016023840"
+    ],
+    [
+      "Hiratsuka",
+      "la016033280"
+    ],
+    [
+      "Ooiso",
+      "la016005460"
+    ],
+    [
+      "Ninomiya",
+      "la016029690"
+    ],
+    [
+      "Kouzu",
+      "la016014160"
+    ],
+    [
+      "Kamomiya",
+      "la016009660"
+    ],
+    [
+      "Odawara",
+      "la016006930"
+    ],
+    [
+      "Hayakawa",
+      "la016031190"
+    ],
+    [
+      "Nebukawa",
+      "la016029870"
+    ],
+    [
+      "Manazuru",
+      "la016036110"
+    ],
+    [
+      "Yugawara",
+      "la016040680"
+    ],
+    [
+      "Atami",
+      "la016001030"
+    ],
+    [
+      "Kannami",
+      ""
+    ],
+    [
+      "Mishimi",
+      ""
+    ],
+    [
+      "Numazu",
+      ""
+    ],
+    [
+      "Katahama",
+      ""
+    ],
+    [
+      "Hara",
+      ""
+    ],
+    [
+      "Higashi-Tagono-Ura",
+      ""
+    ],
+    [
+      "Yoshiwara",
+      ""
+    ],
+    [
+      "Fuji",
+      ""
+    ]
+  ]
+}, {
+  "line": "JR Jouban Line",
+  "id": "kaishaBox_001_rnBox0500",
+  "stations": [
+    ["Shinagawa", "la050017460"],
+    ["Shinbashi", "la050020110"],
+    ["Tokyo", "la050025620"],
+    ["Ueno", "la050004030"],
+    ["Nippori", "la050029650"],
+    ["Mikawashima", "la050036460"],
+    ["Minami-senju", "la050037600"],
+    ["Kita-senju", "la050011310"],
+    ["Ayase", "la050001370"],
+    ["Kameari", "la050009490"],
+    ["Kanamachi", "la050008700"],
+    ["Matsudo", "la050035990"],
+    ["Kita-matsudo", "la050011570"],
+    ["Mabashi", "la050036120"],
+    ["Shin-matsudo", "la050020270"],
+    ["Kita-kogane", "la050011150"],
+    ["Minami-kashiwa", "la050037420"],
+    ["Kashiwa", "la050007970"],
+    ["Kita-kashiwa", "la050011040"],
+    ["Abiko", "la050001190"],
+    ["Tennoudai", "la050025450"],
+    ["Toride", "la050026740"],
+    ["Fujishiro", "la050033920"],
+    ["Ryuugasakishi", "la050016450"],
+    ["Ushiku", "la050004200"],
+    ["Hitachino-ushiku", "la050032790"],
+    ["Arakawaoki", "la050001460"],
+    ["Tsuchiura", "la050024800"],
+    ["Kandatsu", "la050010290"],
+    ["Takahama", "la050022530"],
+    ["Ishioka", "la050002120"],
+    ["Hatori", "la050030880"],
+    ["Iwama", "la050003910"],
+    ["Tomobe", "la050026470"],
+    ["Uchihara", "la050004330"],
+    ["Akatsuka", "la050000350"],
+    ["Kairakuen", "la050051380"],
+    ["Mito", "la050037080"],
+    ["Katsuta", "la050008530"],
+    ["Sawa", "la050051395"],
+    ["Toukai", "la050051400"],
+    ["Oomika", "la050051405"],
+    ["Hitachi-taga", "la050051410"],
+    ["Hitachi", "la050051415"],
+    ["Ogitsu", "la050051420"],
+    ["Juuou", "la050051425"],
+    ["Takahagi", "la050051430"],
+    ["Minami-nakagou", "la050051435"],
+    ["Isohara", "la050051440"],
+    ["Ootsukou", "la050051445"]
+  ]
+}, {
+  "line": "JR Nanbu Line",
+  "id": "kaishaBox_001_rnBox0185",
+  "stations": [
+    [
+      "Yanokuchi",
+      "la018540120"
+    ],
+    [
+      "Inaginaganuma",
+      "la018503240"
+    ],
+    [
+      "Minami-Tama",
+      "la018537650"
+    ],
+    [
+      "Fuchuuhonmachi",
+      "la018534360"
+    ],
+    [
+      "Bubaigawara",
+      "la018534560"
+    ],
+    [
+      "Nishifu",
+      "la018542410"
+    ],
+    [
+      "Yaho",
+      "la018540200"
+    ],
+    [
+      "Yagawa",
+      "la018539710"
+    ],
+    [
+      "Nishi-Kunitachi",
+      "la018528700"
+    ],
+    [
+      "Tachikawa",
+      "la018523100"
+    ],
+    [
+      "Kawasaki",
+      "la018509920"
+    ],
+    [
+      "Shitte",
+      "la018517430"
+    ],
+    [
+      "Hatchounawate",
+      "la018530810"
+    ],
+    [
+      "Kawasaki-Shinmachi",
+      "la018509930"
+    ],
+    [
+      "Odasakae",
+      "la018584015"
+    ],
+    [
+      "Hama-Kawasaki",
+      "la018531070"
+    ],
+    [
+      "Yakou",
+      "la018539830"
+    ],
+    [
+      "Kashimada",
+      "la018507950"
+    ],
+    [
+      "Hirama",
+      "la018533360"
+    ],
+    [
+      "Mukaigawara",
+      "la018538590"
+    ],
+    [
+      "Musashikosugi",
+      "la018538720"
+    ],
+    [
+      "Musashinakahara",
+      "la018538800"
+    ],
+    [
+      "Musashishinjou",
+      "la018538760"
+    ],
+    [
+      "Musashi-Mizonokuchi",
+      "la018538860"
+    ],
+    [
+      "Tsudayama",
+      "la018524790"
+    ],
+    [
+      "Kuji",
+      "la018512560"
+    ],
+    [
+      "Shukugawara",
+      "la018518510"
+    ],
+    [
+      "Noborito",
+      "la018530130"
+    ],
+    [
+      "Nakanoshima",
+      "la018527340"
+    ],
+    [
+      "Inadazutsumi",
+      "la018503300"
+    ]
+  ]
+}, {
+  "line": "JR Yokohama Line",
+  "id": "kaishaBox_001_rnBox0190",
+  "stations": [
+    [
+      "Naruse",
+      "la019028070"
+    ],
+    [
+      "Machida",
+      "la019035780"
+    ],
+    [
+      "Aihara",
+      "la019000130"
+    ],
+    [
+      "Hachiouji minamino",
+      "la019030670"
+    ],
+    [
+      "Katakura",
+      "la019008370"
+    ],
+    [
+      "Hachiouji",
+      "la019030660"
+    ],
+    [
+      "Higashikanagawa",
+      "la019031790"
+    ],
+    [
+      "Ooguchi",
+      "la019005590"
+    ],
+    [
+      "Kikuna",
+      "la019010720"
+    ],
+    [
+      "Shinyokohama",
+      "la019020390"
+    ],
+    [
+      "Kozukue",
+      "la019015030"
+    ],
+    [
+      "Kamoi",
+      "la019009590"
+    ],
+    [
+      "Nakayama",
+      "la019027620"
+    ],
+    [
+      "Toukaichiba",
+      "la019025590"
+    ],
+    [
+      "Nagatsuta",
+      "la019027240"
+    ],
+    [
+      "Kobuchi",
+      "la019015200"
+    ],
+    [
+      "Fuchinobe",
+      "la019034330"
+    ],
+    [
+      "Yabe",
+      "la019040190"
+    ],
+    [
+      "Sagamihara",
+      "la019015960"
+    ],
+    [
+      "Hashimoto",
+      "la019030490"
+    ]
+  ]
+}, {
+  "line": "JR Yokosuka Line",
+  "id": "kaishaBox_001_rnBox0120",
+  "stations": [
+    [
+      "Tokyo",
+      "la012025620"
+    ],
+    [
+      "Shinbashi",
+      "la012020110"
+    ],
+    [
+      "Shinagawa",
+      "la012017460"
+    ],
+    [
+      "Nishi-ooi",
+      "la012028400"
+    ],
+    [
+      "Musashikosugi",
+      "la012038720"
+    ],
+    [
+      "Shinkawasaki",
+      "la012019290"
+    ],
+    [
+      "Yokohama",
+      "la012040940"
+    ],
+    [
+      "Hodogaya",
+      "la012035150"
+    ],
+    [
+      "Higashi-Totsuka",
+      "la012032070"
+    ],
+    [
+      "Totsuka",
+      "la012026210"
+    ],
+    [
+      "Oofuna",
+      "la012006240"
+    ],
+    [
+      "Kitakamakura",
+      "la012011100"
+    ],
+    [
+      "Kamakura",
+      "la012008890"
+    ],
+    [
+      "Zushi",
+      "la012020640"
+    ],
+    [
+      "Higashi Zushi",
+      "la012031980"
+    ],
+    [
+      "Taura",
+      "la012022120"
+    ],
+    [
+      "Yokosuka",
+      "la012040890"
+    ],
+    [
+      "Kinugasa",
+      "la012011700"
+    ],
+    [
+      "Kurihama",
+      "la012013050"
+    ]
+  ]
+}, {
+  "line": "JR Chuuo Line",
+  "id": "kaishaBox_001_rnBox0305",
+  "stations": [
+    [
+      "Tokyo",
+      "la030525620"
+    ],
+    [
+      "Kanda",
+      "la030510270"
+    ],
+    [
+      "Ochanomizu",
+      "la030506970"
+    ],
+    [
+      "Suidoubashi",
+      "la030520470"
+    ],
+    [
+      "Iidabashi",
+      "la030501820"
+    ],
+    [
+      "Ichigaya",
+      "la030502980"
+    ],
+    [
+      "Yotsuya",
+      "la030541160"
+    ],
+    [
+      "Shinanomachi",
+      "la030517470"
+    ],
+    [
+      "Sendagaya",
+      "la030521520"
+    ],
+    [
+      "Yoyogi",
+      "la030541280"
+    ],
+    [
+      "Shinjuku",
+      "la030519670"
+    ],
+    [
+      "Ookubo",
+      "la030505600"
+    ],
+    [
+      "Higashi-nakano",
+      "la030532110"
+    ],
+    [
+      "Nakano",
+      "la030527280"
+    ],
+    [
+      "Kouenji",
+      "la030513930"
+    ],
+    [
+      "Asagaya",
+      "la030500640"
+    ],
+    [
+      "Ogikubo",
+      "la030506640"
+    ],
+    [
+      "Nishi-Ogikubo",
+      "la030528500"
+    ],
+    [
+      "Kichijouji",
+      "la030511640"
+    ],
+    [
+      "Mitaka",
+      "la030536880"
+    ],
+    [
+      "Musashisakai",
+      "la030538740"
+    ],
+    [
+      "Higashikoganei",
+      "la030531920"
+    ],
+    [
+      "Musashikoganei",
+      "la030538710"
+    ],
+    [
+      "Kokubunji",
+      "la030514690"
+    ],
+    [
+      "Nishi-Kokubunji",
+      "la030528740"
+    ],
+    [
+      "Kunitachi",
+      "la030512780"
+    ],
+    [
+      "Tachikawa",
+      "la030523100"
+    ],
+    [
+      "Hino",
+      "la030532940"
+    ],
+    [
+      "Toyoda",
+      "la030526550"
+    ],
+    [
+      "Hachiouji",
+      "la030530660"
+    ],
+    [
+      "Nishi-Hachiouji",
+      "la030529300"
+    ],
+    [
+      "Takao",
+      "la030522180"
+    ],
+    [
+      "Sagamiko",
+      "la030515940"
+    ],
+    [
+      "Fujino",
+      "la030533950"
+    ],
+    [
+      "Uenohara",
+      "la030504060"
+    ]
+  ]
+}, {
+  "line": "JR Ome Line",
+  "id": "kaishaBox_001_rnBox0325",
+  "stations": [
+    ["Tachikawa", "la032523100"],
+    ["Nishi-tachikawa", "la032529020"],
+    ["Higashi-nakagami", "la032532090"],
+    ["Nakagami", "la032526970"],
+    ["Akishima", "la032500460"],
+    ["Haijima", "la032530150"],
+    ["Ushihama", "la032504240"],
+    ["Fussa", "la032534390"],
+    ["Hamura", "la032531170"],
+    ["Ozaku", "la032506800"],
+    ["Kabe", "la032508860"],
+    ["Higashi-oume", "la032531680"],
+    ["Oume", "la032505340"],
+    ["Miyanohira", "la032538310"],
+    ["Hinatawada", "la032532920"],
+    ["Ishigami-mae", "la032502140"],
+    ["Futamatao", "la032534260"],
+    ["Ikusabata", "la032501940"],
+    ["Sawai", "la032516630"],
+    ["Mitake", "la032536910"],
+    ["Kawai", "la032509830"],
+    ["Kori", "la032515490"],
+    ["Hatonosu", "la032530870"]
+  ]
+}, {
+  "line": "JR Itsukaichi Line",
+  "id": "kaishaBox_001_rnBox0330",
+  "stations": [
+    ["Haijima", "la033030150"],
+    ["Kumagawa", "la033012850"],
+    ["Higashi-akiru", "la033031560"],
+    ["Akigawa", "la033000450"],
+    ["Musashi-hikida", "la033038830"],
+    ["Musashi-masuko", "la033038850"],
+    ["Musashi-itsukaichi", "la033038690"]
+  ]
+}, {
+  "line": "JR Musashino Line",
+  "id": "kaishaBox_001_rnBox0335",
+  "stations": [
+    ["Fuchuuhonmachi", "la033534360"],
+    ["Kita-fuchuu", "la033511550"],
+    ["Nishi-kokubunji", "la033528740"],
+    ["Shin-kodaira", "la033519530"],
+    ["Shin-akitsu", "la033518980"],
+    ["Higashi-tokorozawa", "la033532060"],
+    ["Niiza", "la033528210"],
+    ["Kita-asaka", "la033510890"],
+    ["Nishi-urawa", "la033528360"],
+    ["Musashiurawa", "la033538700"],
+    ["Minami-urawa", "la033537350"],
+    ["Higashi-urawa", "la033531670"],
+    ["Higashi-kawaguchi", "la033531820"],
+    ["Minami-koshigaya", "la033537500"],
+    ["Koshigaya Laketown", "la033540965"],
+    ["Yoshikawa", "la033540970"],
+    ["Yoshikawaminami", "la033583725"],
+    ["Shinmisato", "la033520300"],
+    ["Misato", "la033536710"],
+    ["Minami-nagareyama", "la033537670"],
+    ["Shinmatsudo", "la033520270"],
+    ["Shin-yahashihara", "la033520360"],
+    ["Higashi-matsudo", "la033532400"],
+    ["Ichikawaoono", "la033503000"],
+    ["Funabashihouten", "la033534510"],
+    ["Nishi-funabashi", "la033529360"]
+  ]
+}, {
+  "line": "JR Hachikou Line",
+  "id": "kaishaBox_001_rnBox0340",
+  "stations": [
+    ["Hachiouji", "la034030660"],
+    ["Kita-hachiouji", "la034011490"],
+    ["Komiya", "la034015390"],
+    ["Haijima", "la034030150"],
+    ["Higashi-Fussa", "la034032340"],
+    ["Hakonegasaki", "la034030400"],
+    ["Kaneko", "la034008780"],
+    ["Higashi-Hannou", "la034032260"],
+    ["Koumagawa", "la034015280"],
+    ["Moro", "la034039590"],
+    ["Ogose", "la034006750"],
+    ["Myoukaku", "la034038420"],
+    ["Ogawamachi", "la034006630"],
+    ["Takezawa", "la034022870"],
+    ["Orihara", "la034007320"],
+    ["Yorii", "la034041320"],
+    ["Youdo", "la034040840"],
+    ["Matsuhisa", "la034036050"],
+    ["Kodama", "la034014960"],
+    ["Tanshou", "la034023760"],
+    ["Gunma-fujioka", "la034013300"],
+    ["Kita-fujioka", "la034011540"],
+    ["Kuragano", "la034012960"],
+    ["Takasaki", "la034022240"]
+  ]
+}, {
+  "line": "JR Saikyo Line",
+  "id": "kaishaBox_001_rnBox0395",
+  "stations": [
+    ["Nishi-ooi", "la039528400"],
+    ["Oosaki", "la039505780"],
+    ["Ebisu", "la039505050"],
+    ["Shibuya", "la039517640"],
+    ["Shinjuku", "la039519670"],
+    ["Ikebukuro", "la039502060"],
+    ["Itabashi", "la039502890"],
+    ["Juujou", "la039518440"],
+    ["Akabane", "la039500380"],
+    ["Kita-akabane", "la039510870"],
+    ["Ukima-funado", "la039504140"],
+    ["Hazawa Yokohamakokudai", "la039584040"],
+    ["Musashikosugi", "la039538720"],
+    ["Todakouen", "la039526170"],
+    ["Toda", "la039526150"],
+    ["Kita-toda", "la039511390"],
+    ["Musashiurawa", "la039538700"],
+    ["Naka-urawa", "la039526900"],
+    ["Minami-yono", "la039537840"],
+    ["Yonohonmachi", "la039541230"],
+    ["Kita-yono", "la039511630"],
+    ["Oomiya", "la039506310"]
+  ]
+}, {
+  "line": "JR Takasaki Line",
+  "id": "kaishaBox_001_rnBox0405",
+  "stations": [
+    ["Tokyo", "la040525620"],
+    ["Ueno", "la040504030"],
+    ["Oku", "la040506650"],
+    ["Akabane", "la040500380"],
+    ["Urawa", "la040504710"],
+    ["Saitama-shintoshin", "la040515620"],
+    ["Oomiya", "la040506310"],
+    ["Miyahara", "la040538330"],
+    ["Ageo", "la040500530"],
+    ["Kita-ageo", "la040510880"],
+    ["Okeawa", "la040506730"],
+    ["Kitamoto", "la040511600"],
+    ["Kounosu", "la040514300"],
+    ["Kita-kounosu", "la040511140"],
+    ["Fukiage", "la040533580"],
+    ["Gyouda", "la040511960"],
+    ["Kumagaya", "la040512840"],
+    ["Kagohara", "la040507750"],
+    ["Fukaya", "la040533560"],
+    ["Okabe", "la040506560"],
+    ["Honjou", "la040535390"],
+    ["Jinbohara", "la040520230"],
+    ["Shinmachi", "la040520250"],
+    ["Kuragano", "la040512960"],
+    ["Takasaki", "la040522240"]
+  ]
+}, {
+  "line": "JR utsunomiya Line",
+  "id": "kaishaBox_001_rnBox0430",
+  "stations": [
+    ["toukyou", "la043025620"],
+    ["ueno", "la043004030"],
+    ["oku", "la043006650"],
+    ["akabane", "la043000380"],
+    ["urawa", "la043004710"],
+    ["saitama shintoshin", "la043015620"],
+    ["oomiya", "la043006310"],
+    ["doro", "la043026770"],
+    ["toudai miya", "la043031720"],
+    ["hasuda", "la043030520"],
+    ["shiro oka", "la043018800"],
+    ["shin shiro oka", "la043019720"],
+    ["kuki", "la043012470"],
+    ["higashi washi miya", "la043032600"],
+    ["kuri hashi", "la043013040"],
+    ["koga", "la043014500"],
+    ["nogi", "la043030000"],
+    ["kan \u3005 ta", "la043036140"],
+    ["oyama", "la043007270"],
+    ["koganei", "la043014550"],
+    ["jichi idai", "la043017380"],
+    ["ishibashi", "la043002290"],
+    ["suzume miya", "la043020700"],
+    ["utsunomiya", "la043004350"],
+    ["okamoto", "la043006580"],
+    ["takara seki tera", "la043034820"],
+    ["ujiie", "la043004190"],
+    ["kama suzaka", "la043008930"],
+    ["kataoka", "la043008360"],
+    ["yaita", "la043039620"]
+  ]
+}, {
+  "line": "JR sobu Line",
+  "id": "kaishaBox_001_rnBox0573",
+  "stations": [
+    ["koiwa", "la057313900"],
+    ["shinkoiwa", "la057319450"],
+    ["hirai", "la057333190"],
+    ["kameido", "la057309500"],
+    ["kinshichou", "la057312220"],
+    ["ryougoku", "la057341380"],
+    ["asakusabashi", "la057300680"],
+    ["akihabara", "la057300480"],
+    ["ochanomizu", "la057306970"],
+    ["suidoubashi", "la057320470"],
+    ["iidabashi", "la057301820"],
+    ["ichigaya", "la057302980"],
+    ["shi tsu tani", "la057341160"],
+    ["shinanochou", "la057317470"],
+    ["sendagaya", "la057321520"],
+    ["yoyogi", "la057341280"],
+    ["shinjuku", "la057319670"],
+    ["ookubo", "la057305600"],
+    ["higashinakano", "la057332110"],
+    ["nakano", "la057327280"],
+    ["kouenji", "la057313930"],
+    ["asa ke tani", "la057300640"],
+    ["ogikubo", "la057306640"],
+    ["nishiogikubo", "la057328500"],
+    ["kichijouji", "la057311640"],
+    ["mitaka", "la057336880"],
+    ["chiba", "la057324180"],
+    ["nishi chiba", "la057329050"],
+    ["inage", "la057303250"],
+    ["shin kemigawa", "la057319440"],
+    ["makuhari", "la057335640"],
+    ["makuharihongou", "la057335650"],
+    ["tsudanuma", "la057324780"],
+    ["higashi funabashi", "la057332350"],
+    ["funabashi", "la057334480"],
+    ["nishifunabashi", "la057329360"],
+    ["shimousa nakayama", "la057317950"],
+    ["hon hachiman", "la057339350"],
+    ["ichikawa", "la057302990"]
+  ]
+}, {
+  "line": "JR sobu Line kaisoku",
+  "id": "kaishaBox_001_rnBox0580",
+  "stations": [
+    ["toukyou", "la058025620"],
+    ["shinnihon hashi", "la058020080"],
+    ["bakurouchou", "la058030330"],
+    ["kinshichou", "la058012220"],
+    ["shinkoiwa", "la058019450"],
+    ["ichikawa", "la058002990"],
+    ["funabashi", "la058034480"],
+    ["tsudanuma", "la058024780"],
+    ["inage", "la058003250"],
+    ["chiba", "la058024180"]
+  ]
+}, {
+  "line": "JR keiyo Line",
+  "id": "kaishaBox_001_rnBox0600",
+  "stations": [
+    ["toukyou", "la060025620"],
+    ["hatchoubori", "la060030820"],
+    ["etchuu shima", "la060004910"],
+    ["shiomi", "la060017090"],
+    ["shinkiba", "la060019330"],
+    ["kasai rinkai kouen", "la060007770"],
+    ["maihama", "la060035540"],
+    ["shin'urayasu", "la060019090"],
+    ["ichikawa shiohama", "la060003010"],
+    ["nishifunabashi", "la060029360"],
+    ["ni mata shinmachi", "la060034280"],
+    ["minamifunabashi", "la060037760"],
+    ["shinnarashino", "la060020050"],
+    ["kaihinmakuhari", "la060007530"],
+    ["kemigawahama", "la060013790"],
+    ["inage kaigan", "la060003260"],
+    ["chiba minato", "la060024240"],
+    ["soga", "la060021750"]
+  ]
+}, {
+  "line": "shonan shinjuku Line u su",
+  "id": "kaishaBox_001_rnBox7580",
+  "stations": [
+    ["akabane", "la758000380"],
+    ["ikebukuro", "la758002060"],
+    ["shinjuku", "la758019670"],
+    ["shibuya", "la758017640"],
+    ["ebisu", "la758005050"],
+    ["oosaki", "la758005780"],
+    ["nishiooi", "la758028400"],
+    ["musashikosugi", "la758038720"],
+    ["shinkawasaki", "la758019290"],
+    ["yokohama", "la758040940"],
+    ["hodogaya", "la758035150"],
+    ["higashitotsuka", "la758032070"],
+    ["totsuka", "la758026210"],
+    ["oofuna", "la758006240"],
+    ["kitakamakura", "la758011100"],
+    ["kamakura", "la758008890"],
+    ["zushi", "la758020640"],
+    ["kuri hashi", "la758013040"],
+    ["higashi washi miya", "la758032600"],
+    ["kuki", "la758012470"],
+    ["shin shiro oka", "la758019720"],
+    ["shiro oka", "la758018800"],
+    ["hasuda", "la758030520"],
+    ["toudai miya", "la758031720"],
+    ["doro", "la758026770"],
+    ["oomiya", "la758006310"],
+    ["urawa", "la758004710"],
+    ["koga", "la758014500"],
+    ["utsunomiya", "la758004350"],
+    ["suzume miya", "la758020700"],
+    ["ishibashi", "la758002290"],
+    ["jichi idai", "la758017380"],
+    ["koganei", "la758014550"],
+    ["oyama", "la758007270"],
+    ["kan \u3005 ta", "la758036140"],
+    ["nogi", "la758030000"]
+  ]
+}, {
+  "line": "shonan shinjuku Line taka umi",
+  "id": "kaishaBox_001_rnBox7585",
+  "stations": [
+    ["akabane", "la758500380"],
+    ["ikebukuro", "la758502060"],
+    ["shinjuku", "la758519670"],
+    ["shibuya", "la758517640"],
+    ["ebisu", "la758505050"],
+    ["oosaki", "la758505780"],
+    ["musashikosugi", "la758538720"],
+    ["yokohama", "la758540940"],
+    ["totsuka", "la758526210"],
+    ["oofuna", "la758506240"],
+    ["fujisawa", "la758533900"],
+    ["tsujidou", "la758524740"],
+    ["chigasaki", "la758523840"],
+    ["hiratsuka", "la758533280"],
+    ["ooiso", "la758505460"],
+    ["ninomiya", "la758529690"],
+    ["kouzu", "la758514160"],
+    ["kamo miya", "la758509660"],
+    ["odawara", "la758506930"],
+    ["jinbo hara", "la758520230"],
+    ["honjou", "la758535390"],
+    ["okabe", "la758506560"],
+    ["fukaya", "la758533560"],
+    ["kago hara", "la758507750"],
+    ["kumagaya", "la758512840"],
+    ["gyouda", "la758511960"],
+    ["sui ue", "la758533580"],
+    ["kita kounosu", "la758511140"],
+    ["kounosu", "la758514300"],
+    ["kitamoto", "la758511600"],
+    ["okegawa", "la758506730"],
+    ["kitakami o", "la758510880"],
+    ["ageo", "la758500530"],
+    ["miyahara", "la758538330"],
+    ["oomiya", "la758506310"],
+    ["urawa", "la758504710"],
+    ["maebashi", "la758557150"],
+    ["shinmaebashi", "la758556865"],
+    ["ino", "la758556880"],
+    ["takasaki tonya machi", "la758556875"],
+    ["takasaki", "la758522240"],
+    ["kura ga no", "la758512960"],
+    ["shinmachi", "la758520250"]
+  ]
+}, {
+  "line": "tokaidoshinkan Line",
+  "id": "kaishaBox_001_rnBox0155",
+  "stations": [
+    ["toukyou", "la015525620"],
+    ["shinagawa", "la015517460"],
+    ["shinyokohama", "la015520390"],
+    ["odawara", "la015506930"],
+    ["toyohashi", ""],
+    ["mikawaanjou", ""],
+    ["nagoya", ""],
+    ["gifu hane shima", ""],
+    ["atami", "la015501030"],
+    ["mishima", ""],
+    ["shinfuji", ""],
+    ["shizuoka", ""],
+    ["kakegawa", ""],
+    ["hamamatsu", ""],
+    ["shin'oosaka", ""],
+    ["kyouto", ""],
+    ["yonehara", ""]
+  ]
+}, {
+  "line": "joetsushinkan Line",
+  "id": "kaishaBox_001_rnBox0415",
+  "stations": [
+    ["toukyou", "la041525620"],
+    ["ueno", "la041504030"],
+    ["oomiya", "la041506310"],
+    ["kumagaya", "la041512840"],
+    ["honjou waseda", "la041554045"],
+    ["takasaki", "la041522240"],
+    ["ue ke kougen", "la041518720"],
+    ["echigoyuzawa", ""],
+    ["gaara yuzawa", ""],
+    ["urasa", ""],
+    ["nagaoka", ""],
+    ["tsubame sanjou", ""],
+    ["niigata", ""]
+  ]
+}, {
+  "line": "hokurikushinkan Line",
+  "id": "kaishaBox_001_rnBox0420",
+  "stations": [
+    ["toukyou", "la042025620"],
+    ["ueno", "la042004030"],
+    ["oomiya", "la042006310"],
+    ["kumagaya", "la042012840"],
+    ["honjou waseda", "la042054045"],
+    ["takasaki", "la042022240"],
+    ["annaka haruna", "la042001780"],
+    ["jouetsu myoukou", ""],
+    ["itoigawa", ""],
+    ["kurobe unazuki onsen", ""],
+    ["toyama", ""],
+    ["shin takaoka", ""],
+    ["kanazawa", ""],
+    ["karuizawa", ""],
+    ["saku taira", ""],
+    ["ueda", ""],
+    ["nagano", ""],
+    ["iiyama", ""]
+  ]
+}, {
+  "line": "tohokushinkan Line",
+  "id": "kaishaBox_001_rnBox0435",
+  "stations": [
+    ["shiroishi zaou", ""],
+    ["sendai", ""],
+    ["furukawa", ""],
+    ["kurikoma kougen", ""],
+    ["hachinohe", ""],
+    ["shichi ko towada", ""],
+    ["shin aomori", ""],
+    ["ichinoseki", ""],
+    ["mizusawa esashi", ""],
+    ["kitakami", ""],
+    ["shin hanamaki", ""],
+    ["morioka", ""],
+    ["iwate numakunai", ""],
+    ["ninohe", ""],
+    ["shin shirakawa", ""],
+    ["kouriyama", ""],
+    ["fukushima", ""],
+    ["toukyou", "la043525620"],
+    ["ueno", "la043504030"],
+    ["oomiya", "la043506310"],
+    ["oyama", "la043507270"],
+    ["utsunomiya", "la043504350"],
+    ["nasushiobara", "la043527780"]
+  ]
+}, {
+  "line": "tokyo metoro ginza Line",
+  "id": "kaishaBox_002_rnBox0010",
+  "stations": [
+    ["shibuya", "la001017640"],
+    ["omotesandou", "la001007240"],
+    ["gaienmae", "la001007450"],
+    ["aoyamaitchoume", "la001000250"],
+    ["akasakamitsuke", "la001000320"],
+    ["tameike sannou", "la001023660"],
+    ["toranomon", "la001026650"],
+    ["shinbashi", "la001020110"],
+    ["ginza", "la001012200"],
+    ["kyoubashi", "la001012060"],
+    ["nihonbashi", "la001029710"],
+    ["mitsukoshimae", "la001036980"],
+    ["kanda", "la001010270"],
+    ["suehirochou", "la001020510"],
+    ["uenohirokouji", "la001004070"],
+    ["ueno", "la001004030"],
+    ["inari machi", "la001003430"],
+    ["tahara machi", "la001023730"],
+    ["asakusa", "la001000670"]
+  ]
+}, {
+  "line": "tokyo metoro marunochi  Line",
+  "id": "kaishaBox_002_rnBox0015",
+  "stations": [
+    ["ikebukuro", "la001502060"],
+    ["shin'ootsuka", "la001519160"],
+    ["myouga tani", "la001538430"],
+    ["kourakuen", "la001514430"],
+    ["hongousanchoume", "la001535340"],
+    ["ochanomizu", "la001506970"],
+    ["awajichou", "la001501720"],
+    ["ootemachi", "la001506050"],
+    ["toukyou", "la001525620"],
+    ["ginza", "la001512200"],
+    ["kasumigaseki", "la001508290"],
+    ["kokkaigijidoumae", "la001515020"],
+    ["akasakamitsuke", "la001500320"],
+    ["shi tsu tani", "la001541160"],
+    ["yotsuyasanchoume", "la001541170"],
+    ["shinjukugyoen mae", "la001519680"],
+    ["shinjukusanchoume", "la001519690"],
+    ["shinjuku", "la001519670"],
+    ["nishishinjuku", "la001528860"],
+    ["nakano sakaue", "la001527320"],
+    ["nakano shinbashi", "la001527360"],
+    ["nakano fujimichou", "la001527380"],
+    ["hou minamimachi", "la001534900"],
+    ["shin nakano", "la001520030"],
+    ["higashikouenji", "la001531910"],
+    ["shin kouenji", "la001519470"],
+    ["minami asa ke tani", "la001537270"],
+    ["ogikubo", "la001506640"]
+  ]
+}, {
+  "line": "tokyo metoro hibiya Line",
+  "id": "kaishaBox_002_rnBox0020",
+  "stations": [
+    ["nakameguro", "la002027580"],
+    ["ebisu", "la002005050"],
+    ["hiroo", "la002033410"],
+    ["roppongi", "la002041560"],
+    ["kamiyachou", "la002009450"],
+    ["kasumigaseki", "la002008290"],
+    ["hibiya", "la002033040"],
+    ["ginza", "la002012200"],
+    ["higashiginza", "la002031870"],
+    ["tsukiji", "la002024620"],
+    ["hatchoubori", "la002030820"],
+    ["kayabachou", "la002009680"],
+    ["ningyouchou", "la002029780"],
+    ["shouden uma machi", "la002015070"],
+    ["akihabara", "la002000480"],
+    ["nakaokachimachi", "la002026940"],
+    ["ueno", "la002004030"],
+    ["iriya", "la002003760"],
+    ["san no wa", "la002038130"],
+    ["minami senju", "la002037600"],
+    ["kitasenju", "la002011310"]
+  ]
+}, {
+  "line": "tokyo metoro tozai Line",
+  "id": "kaishaBox_002_rnBox0025",
+  "stations": [
+    ["nakano", "la002527280"],
+    ["ochiai", "la002506940"],
+    ["takadanobaba", "la002522350"],
+    ["waseda", "la002541750"],
+    ["kagurazaka", "la002507710"],
+    ["iidabashi", "la002501820"],
+    ["kudanshita", "la002512720"],
+    ["takebashi", "la002522950"],
+    ["ootemachi", "la002506050"],
+    ["nihonbashi", "la002529710"],
+    ["kayabachou", "la002509680"],
+    ["monzennakamachi", "la002539600"],
+    ["kiba", "la002511770"],
+    ["touyouchou", "la002525900"],
+    ["minami suna machi", "la002537570"],
+    ["nishikasai", "la002528520"],
+    ["kasai", "la002507760"],
+    ["urayasu", "la002504690"],
+    ["minamiyuki toku", "la002537450"],
+    ["yukinori", "la002512030"],
+    ["myou ten", "la002538520"],
+    ["barakinakayama", "la002531240"],
+    ["nishifunabashi", "la002529360"]
+  ]
+}, {
+  "line": "tokyo metoro chiyoda Line",
+  "id": "kaishaBox_002_rnBox0030",
+  "stations": [
+    ["yoyogiuehara", "la003041290"],
+    ["yoyogikouen", "la003041300"],
+    ["meijijinguu mae", "la003039010"],
+    ["omotesandou", "la003007240"],
+    ["nogizaka", "la003030010"],
+    ["akasaka", "la003000300"],
+    ["kokkaigijidoumae", "la003015020"],
+    ["kasumigaseki", "la003008290"],
+    ["hibiya", "la003033040"],
+    ["nijuubashimae", ""],
+    ["ootemachi", "la003006050"],
+    ["shin ochanomizu", "la003019190"],
+    ["yu shima", "la003040710"],
+    ["nezu", "la003029860"],
+    ["sen da ki", "la003021530"],
+    ["nishinippori", "la003029160"],
+    ["machi ya", "la003035790"],
+    ["kitasenju", "la003011310"],
+    ["ayase", "la003001370"],
+    ["kitaayase", "la003010900"]
+  ]
+}, {
+  "line": "tokyo metoro yuurakucho Line",
+  "id": "kaishaBox_002_rnBox0040",
+  "stations": [
+    ["shinkiba", "la004019330"],
+    ["tatsumi", "la004023180"],
+    ["toyosu", "la004026540"],
+    ["gatsu shima", "la004024650"],
+    ["shintomi machi", "la004019980"],
+    ["ginzaitchoume", "la004012210"],
+    ["yuurakuchou", "la004040650"],
+    ["sakurada mon", ""],
+    ["nagatachou", "la004027210"],
+    ["koujimachi", "la004014020"],
+    ["ichigaya", "la004002980"],
+    ["iidabashi", "la004001820"],
+    ["edogawa hashi", "la004004940"],
+    ["gokokuji", "la004014760"],
+    ["higashiikebukuro", "la004031600"],
+    ["ikebukuro", "la004002060"],
+    ["kanamechou", "la004008710"],
+    ["sen kawa", "la004021350"],
+    ["kotake mukaihara", "la004014950"],
+    ["hikawa dai", "la004032630"],
+    ["heiwadai", "la004034660"],
+    ["chikatetsu akatsuka", "la004004750"],
+    ["chikatetsu sei zou", "la004004760"],
+    ["wakoushi", "la004041690"]
+  ]
+}, {
+  "line": "tokyo metoro hanzomon Line",
+  "id": "kaishaBox_002_rnBox0045",
+  "stations": [
+    ["shibuya", "la004517640"],
+    ["omotesandou", "la004507240"],
+    ["aoyamaitchoume", "la004500250"],
+    ["nagatachou", "la004527210"],
+    ["hanzoumon", "la004531420"],
+    ["kudanshita", "la004512720"],
+    ["jinbouchou", "la004520210"],
+    ["ootemachi", "la004506050"],
+    ["mitsukoshimae", "la004536980"],
+    ["suitenguumae", "la004520460"],
+    ["kiyoshi sumi shirakawa", "la004550050"],
+    ["sumiyoshi", "la004520870"],
+    ["kinshichou", "la004553960"],
+    ["oshiage", "la004506820"]
+  ]
+}, {
+  "line": "tokyo metoro nanboku Line",
+  "id": "kaishaBox_002_rnBox0050",
+  "stations": [
+    ["meguro", "la005039110"],
+    ["shiroganedai", "la005018930"],
+    ["shirogane takanawa", "la005018940"],
+    ["azabujuuban", "la005000800"],
+    ["roppongi itchoume", "la005041570"],
+    ["tameike sannou", "la005023660"],
+    ["nagatachou", "la005027210"],
+    ["shi tsu tani", "la005041160"],
+    ["ichigaya", "la005002980"],
+    ["iidabashi", "la005001820"],
+    ["kourakuen", "la005014430"],
+    ["toudaimae", "la005025730"],
+    ["honkomagome", "la005035370"],
+    ["komagome", "la005015330"],
+    ["nishi ke hara", "la005028560"],
+    ["ouji", "la005005180"],
+    ["ouji kamiya", "la005005830"],
+    ["kokorozashi shigeru", "la005017810"],
+    ["akabane iwabuchi", "la005000390"]
+  ]
+}, {
+  "line": "tokyo metoro fukutoshin  Line",
+  "id": "kaishaBox_002_rnBox0043",
+  "stations": [
+    ["shibuya", "la004317640"],
+    ["meijijinguu mae", "la004339010"],
+    ["kita sandou", "la004380835"],
+    ["shinjukusanchoume", "la004319690"],
+    ["higashi shinjuku", "la004350015"],
+    ["nishiwaseda", "la004380840"],
+    ["zatsu tsukasa ga tani", "la004380845"],
+    ["ikebukuro", "la004302060"],
+    ["kanamechou", "la004308710"],
+    ["sen kawa", "la004321350"],
+    ["kotake mukaihara", "la004314950"],
+    ["hikawa dai", "la004332630"],
+    ["heiwadai", "la004334660"],
+    ["chikatetsu akatsuka", "la004304750"],
+    ["chikatetsu sei zou", "la004304760"],
+    ["wakoushi", "la004341690"]
+  ]
+}, {
+  "line": "seibuyuurakucho Line",
+  "id": "kaishaBox_003_rnBox0035",
+  "stations": [
+    ["kotake mukaihara", "la003514950"],
+    ["shin sakura dai", "la003519600"],
+    ["nerima", "la003529900"]
+  ]
+}, {
+  "line": "seibushinjuku Line",
+  "id": "kaishaBox_003_rnBox0350",
+  "stations": [
+    ["seibushinjuku", "la035021050"],
+    ["takadanobaba", "la035022350"],
+    ["geraku gou", "la035017990"],
+    ["nakai", "la035026830"],
+    ["arai kusurishi mae", "la035001440"],
+    ["numa fukuro", "la035029830"],
+    ["nogata", "la035029980"],
+    ["toritsukasei", "la035026720"],
+    ["sagi no miya", "la035015990"],
+    ["shimoigusa", "la035017860"],
+    ["i ogi", "la035001870"],
+    ["ue igusa", "la035009040"],
+    ["ue shakujii", "la035009200"],
+    ["musashiseki", "la035038780"],
+    ["higashifushimi", "la035032310"],
+    ["seibu yanagisawa", "la035021080"],
+    ["tanashi", "la035023300"],
+    ["hana koganei", "la035030900"],
+    ["kodaira", "la035014930"],
+    ["kumegawa", "la035012930"],
+    ["higashimurayama", "la035032490"],
+    ["tokorozawa", "la035026120"],
+    ["koukuu kouen", "la035013970"],
+    ["shintokorozawa", "la035019960"],
+    ["nyuu so", "la035003720"],
+    ["sayamashi", "la035016570"],
+    ["shin sayama", "la035019630"],
+    ["minamiootsuka", "la035037380"],
+    ["hon kawagoe", "la035035290"]
+  ]
+}, {
+  "line": "seibuikebukuro Line",
+  "id": "kaishaBox_003_rnBox0370",
+  "stations": [
+    ["ikebukuro", "la037002060"],
+    ["shiinamachi", "la037016970"],
+    ["higashi nagasaki", "la037032100"],
+    ["ekoda", "la037004830"],
+    ["sakura dai", "la037016150"],
+    ["nerima", "la037029900"],
+    ["nakamura hashi", "la037027570"],
+    ["fujimidai", "la037034040"],
+    ["nerima kouyadai", "la037029920"],
+    ["shakujiikouen", "la037018350"],
+    ["ooizumigakuen", "la037005440"],
+    ["houya", "la037034910"],
+    ["hibari ke oka", "la037033000"],
+    ["higashikurume", "la037031890"],
+    ["kiyose", "la037012120"],
+    ["akitsu", "la037000470"],
+    ["tokorozawa", "la037026120"],
+    ["nishi tokorozawa", "la037029090"],
+    ["kotesashi", "la037015050"],
+    ["sayama ke oka", "la037016560"],
+    ["musashi fujisawa", "la037038840"],
+    ["inariyama kouen", "la037003440"],
+    ["irumashi", "la037003770"],
+    ["hotoke ko", "la037033800"],
+    ["moto kaji", "la037039230"],
+    ["hannou", "la037031480"],
+    ["higashihannou", "la037032260"],
+    ["kourai", "la037015240"],
+    ["musashi yokote", "la037038880"],
+    ["higashi ware no", "la037031550"]
+  ]
+}, {
+  "line": "seibu hai shima  Line",
+  "id": "kaishaBox_003_rnBox0355",
+  "stations": [
+    ["kodaira", "la035514930"],
+    ["hagi yama", "la035530230"],
+    ["ogawa", "la035506610"],
+    ["higashiyamatoshi", "la035532550"],
+    ["tamagawajousui", "la035523470"],
+    ["musashi sunagawa", "la035538770"],
+    ["seibu tachikawa", "la035521060"],
+    ["hai shima", "la035530150"]
+  ]
+}, {
+  "line": "seibu yamaguchi Line",
+  "id": "kaishaBox_003_rnBox0365",
+  "stations": [
+    ["seibu yuuenchi", "la036521090"],
+    ["seibukyuujou mae", "la036521040"],
+    ["yuuenchi nishi", "la036540620"]
+  ]
+}, {
+  "line": "seibu kokubunji  Line",
+  "id": "kaishaBox_003_rnBox0320",
+  "stations": [
+    ["kokubunji", "la032014690"],
+    ["koigakubo", "la032013850"],
+    ["taka no dai", "la032022490"],
+    ["ogawa", "la032006610"],
+    ["higashimurayama", "la032032490"]
+  ]
+}, {
+  "line": "seibu tamagawa Line",
+  "id": "kaishaBox_003_rnBox0310",
+  "stations": [
+    ["musashisakai", "la031038740"],
+    ["shin koganei", "la031019510"],
+    ["ta ma", "la031023590"],
+    ["shiroito dai", "la031011360"],
+    ["kyouteijou mae", "la031011990"],
+    ["kore matsurigoto", "la031015520"]
+  ]
+}, {
+  "line": "seibu tama mizuumi  Line",
+  "id": "kaishaBox_003_rnBox0315",
+  "stations": [
+    ["kokubunji", "la031514690"],
+    ["hitotsubashi gakuen", "la031532880"],
+    ["oumekaidou", "la031505350"],
+    ["hagi yama", "la031530230"],
+    ["yasaka", "la031539850"],
+    ["musashidai wa", "la031538870"],
+    ["seibu yuuenchi", "la031521090"]
+  ]
+}, {
+  "line": "seibu seibuen  Line",
+  "id": "kaishaBox_003_rnBox0345",
+  "stations": [
+    ["seibuen", "la034521030"]
+  ]
+}, {
+  "line": "seibu toyoshima  Line",
+  "id": "kaishaBox_003_rnBox0375",
+  "stations": [
+    ["toyoshima sono", "la037526130"]
+  ]
+}, {
+  "line": "tobutojo Line",
+  "id": "kaishaBox_004_rnBox0385",
+  "stations": [
+    ["ikebukuro", "la038502060"],
+    ["kita ikebukuro", "la038510930"],
+    ["shita itabashi", "la038517890"],
+    ["ooyama", "la038506420"],
+    ["naka itabashi", "la038526860"],
+    ["tokiwa dai", "la038525970"],
+    ["ue itabashi", "la038509050"],
+    ["toubu nerima", "la038525870"],
+    ["shita akatsuka", "la038517820"],
+    ["sei zou", "la038528040"],
+    ["wakoushi", "la038541690"],
+    ["asaka", "la038500620"],
+    ["asaka dai", "la038500630"],
+    ["shiki", "la038517200"],
+    ["yanase kawa", "la038540110"],
+    ["mizuho dai", "la038536790"],
+    ["tsuru se", "la038525010"],
+    ["fujimi no", "la038534060"],
+    ["kamifukuoka", "la038509340"],
+    ["shin kashi", "la038519210"],
+    ["kawagoe", "la038509900"],
+    ["kawagoeshi", "la038509910"],
+    ["kasumigaseki", "la038508300"],
+    ["tsuru ke shima", "la038524970"],
+    ["wakaba", "la038541600"],
+    ["sakato", "la038515870"],
+    ["kita sakato", "la038511190"],
+    ["takasaka", "la038522230"],
+    ["higashimatsuyama", "la038532420"],
+    ["shinrinkouen", "la038520410"],
+    ["tsukinowa", "la038553915"],
+    ["musashi arashiyama", "la038538890"],
+    ["ogawachou", "la038506630"],
+    ["toubu takezawa", "la038525820"],
+    ["otoko fusuma", "la038507170"],
+    ["hachi katachi", "la038530680"],
+    ["tama yodo", "la038523620"],
+    ["yori kyo", "la038541320"]
+  ]
+}, {
+  "line": "tobuisezaki Line",
+  "id": "kaishaBox_004_rnBox0440",
+  "stations": [
+    ["asakusa", "la044000670"],
+    ["toukyou sukaitsurii", "la044028030"],
+    ["oshiage", "la044006820"],
+    ["ei fune", "la044032640"],
+    ["higashi kou shima", "la044032480"],
+    ["kane ke fuchi", "la044008770"],
+    ["hori setsu", "la044035200"],
+    ["ushita", "la044004220"],
+    ["kitasenju", "la044011310"],
+    ["kosuge", "la044014900"],
+    ["gotan no", "la044014980"],
+    ["ume shima", "la044004630"],
+    ["nishiarai", "la044028310"],
+    ["take no tsuka", "la044022940"],
+    ["tani tsuka", "la044040010"],
+    ["souka", "la044021610"],
+    ["dokkyoudaigaku mae", "la044036040"],
+    ["nitta", "la044019900"],
+    ["gamou", "la044009600"],
+    ["shin koshigaya", "la044019520"],
+    ["koshigaya", "la044014820"],
+    ["hokuetsu tani", "la044011170"],
+    ["oobukuro", "la044006230"],
+    ["sengen dai", "la044021380"],
+    ["takeshi sato", "la044022860"],
+    ["ichi no wari", "la044003110"],
+    ["kasukabe", "la044008090"],
+    ["kita kasukabe", "la044011050"],
+    ["himemiya", "la044033090"],
+    ["toubudoubutsukouen", "la044025850"],
+    ["wa ko", "la044041850"],
+    ["kuki", "la044012470"],
+    ["washi miya", "la044041720"],
+    ["hana saki", "la044030910"],
+    ["kazo", "la044008330"],
+    ["minami hanyuu", "la044037700"],
+    ["hanyuu", "la044031000"],
+    ["ken", "la044000340"],
+    ["fuku kyo", "la044033610"],
+    ["toubu izumi", "la044025770"],
+    ["ashikaga shi", "la044000850"],
+    ["no shuu yamabe", "la044039880"],
+    ["kawa mata", "la044010150"],
+    ["shigeru hayashi teramae", "la044039580"],
+    ["tatebayashi", "la044023210"],
+    ["tatara", "la044023080"],
+    ["nira kawa", "la044029740"],
+    ["oota", "la044005930"],
+    ["hosoya", "la044035060"],
+    ["kizaki", "la044010740"],
+    ["sera ta", "la044021330"],
+    ["sakai machi", "la044015720"],
+    ["takeshi", "la044013990"],
+    ["shin isesaki", "la044019030"],
+    ["isesaki", "la044002670"]
+  ]
+}, {
+  "line": "tobu kameido  Line",
+  "id": "kaishaBox_004_rnBox0445",
+  "stations": [
+    ["ei fune", "la044532640"],
+    ["komura i", "la044507200"],
+    ["higashi azuma", "la044531570"],
+    ["kameido mizu kami", "la044509510"],
+    ["kameido", "la044509500"]
+  ]
+}, {
+  "line": "tobu taishi Line",
+  "id": "kaishaBox_004_rnBox0450",
+  "stations": [
+    ["nishiarai", "la045028310"],
+    ["taishi mae", "la045021910"]
+  ]
+}, {
+  "line": "Tokyutoyoko Line",
+  "id": "kaishaBox_005_rnBox0220",
+  "stations": [
+    ["shibuya", "la022017640"],
+    ["daikanyama", "la022021850"],
+    ["nakameguro", "la022027580"],
+    ["yuutenji", "la022040640"],
+    ["gakugeidaigaku", "la022007660"],
+    ["toritsudaigaku", "la022026730"],
+    ["jiyuu ga oka", "la022018410"],
+    ["den'enchoufu", "la022025320"],
+    ["tamagawa", "la022023450"],
+    ["shinmaruko", "la022020280"],
+    ["musashikosugi", "la022038720"],
+    ["motosumiyoshi", "la022039270"],
+    ["hiyoshi", "la022033150"],
+    ["tsunashima", "la022024880"],
+    ["ookurayama", "la022005650"],
+    ["kikuna", "la022010720"],
+    ["myourenji", "la022038540"],
+    ["hakuraku", "la022030290"],
+    ["higashi hakuraku", "la022032210"],
+    ["tanmachi", "la022023830"],
+    ["yokohama", "la022040940"]
+  ]
+}, {
+  "line": "Tokyu den'entoshi Line",
+  "id": "kaishaBox_005_rnBox0230",
+  "stations": [
+    ["shibuya", "la023017640"],
+    ["ikejirioohashi", "la023002000"],
+    ["sangenjaya", "la023016720"],
+    ["komazawa daigaku", "la023015340"],
+    ["sakura shinmachi", "la023016140"],
+    ["youga", "la023040800"],
+    ["futagotamagawa", "la023034230"],
+    ["tsukushi no", "la023024700"],
+    ["suzukake dai", "la023020660"],
+    ["minamimachida guranberiipaaku", "la023037790"],
+    ["futakoshinchi", "la023034220"],
+    ["takatsu", "la023022390"],
+    ["mizonokuchi", "la023036850"],
+    ["kaji ga tani", "la023007890"],
+    ["miyazakidai", "la023038250"],
+    ["miyamae taira", "la023038350"],
+    ["saginuma", "la023015980"],
+    ["tama puraaza", "la023023580"],
+    ["azami no", "la023000820"],
+    ["eda", "la023004880"],
+    ["shi ga o", "la023002970"],
+    ["fujigaoka", "la023033850"],
+    ["aobadai", "la023000210"],
+    ["ta na", "la023023250"],
+    ["nagatsuda", "la023027240"],
+    ["tsukimi no", "la023024660"],
+    ["chuuourinkan", "la023024340"]
+  ]
+}, {
+  "line": "Tokyuikegami Line",
+  "id": "kaishaBox_005_rnBox0200",
+  "stations": [
+    ["gotanda", "la020014970"],
+    ["oosaki hirokouji", "la020005790"],
+    ["tokoshiginza", "la020026090"],
+    ["ehara nakanobe", "la020005020"],
+    ["hata no dai", "la020030650"],
+    ["nagahara", "la020027430"],
+    ["senzokuike", "la020021480"],
+    ["ishikawadai", "la020002180"],
+    ["yuki ga taniootsuka", "la020040690"],
+    ["ontake yama", "la020007440"],
+    ["kyuu ga hara", "la020012440"],
+    ["chidorichou", "la020024160"],
+    ["ikegami", "la020001970"],
+    ["hasu numa", "la020030530"],
+    ["kamata", "la020008940"]
+  ]
+}, {
+  "line": "Tokyu meguro  Line",
+  "id": "kaishaBox_005_rnBox0205",
+  "stations": [
+    ["meguro", "la020539110"],
+    ["fudoumae", "la020534410"],
+    ["musashikoyama", "la020538730"],
+    ["nishi oyama", "la020528780"],
+    ["sensoku", "la020521470"],
+    ["oookayama", "la020505520"],
+    ["okusawa", "la020506660"],
+    ["den'enchoufu", "la020525320"],
+    ["tamagawa", "la020523450"],
+    ["shinmaruko", "la020520280"],
+    ["musashikosugi", "la020538720"],
+    ["motosumiyoshi", "la020539270"],
+    ["hiyoshi", "la020533150"]
+  ]
+}, {
+  "line": "Tokyu tamagawa Line",
+  "id": "kaishaBox_005_rnBox0210",
+  "stations": [
+    ["tamagawa", "la021023450"],
+    ["numabe", "la021029840"],
+    ["u no ki", "la021004470"],
+    ["shimomaruko", "la021018280"],
+    ["musashi nitta", "la021038810"],
+    ["yaguchi watari", "la021039810"],
+    ["kamata", "la021008940"]
+  ]
+}, {
+  "line": "Tokyuooimachi Line",
+  "id": "kaishaBox_005_rnBox0215",
+  "stations": [
+    ["ooichou", "la021505480"],
+    ["shita jinmei", "la021518100"],
+    ["tokoshikouen", "la021526100"],
+    ["nakanobe", "la021527370"],
+    ["ehara machi", "la021505030"],
+    ["hata no dai", "la021530650"],
+    ["kitasenzoku", "la021511320"],
+    ["oookayama", "la021505520"],
+    ["midorigaoka", "la021537110"],
+    ["jiyuu ga oka", "la021518410"],
+    ["kuhonbutsu", "la021512830"],
+    ["oyama dai", "la021507280"],
+    ["todoroki", "la021526240"],
+    ["kaminoge", "la021509280"],
+    ["futagotamagawa", "la021534230"],
+    ["futakoshinchi", "la021534220"],
+    ["takatsu", "la021522390"],
+    ["mizonokuchi", "la021536850"]
+  ]
+}, {
+  "line": "Tokyu setagaya Line",
+  "id": "kaishaBox_005_rnBox0235",
+  "stations": [
+    ["sangenjaya", "la023516720"],
+    ["nishi taishidou", "la023528990"],
+    ["wakabayashi", "la023541620"],
+    ["matsu in jinja mae", "la023518530"],
+    ["setagaya", "la023521210"],
+    ["uemachi", "la023509410"],
+    ["miya no saka", "la023538270"],
+    ["yamashita", "la023540270"],
+    ["matsubara", "la023536030"],
+    ["shimotakai ko", "la023518140"]
+  ]
+}, {
+  "line": "toeiasakusa Line",
+  "id": "kaishaBox_006_rnBox0055",
+  "stations": [
+    ["nishimagome", "la005529410"],
+    ["umagome", "la005535690"],
+    ["nakanobe", "la005527370"],
+    ["tokoshi", "la005526080"],
+    ["gotanda", "la005514970"],
+    ["takanawa dai", "la005522460"],
+    ["sengakuji", "la005521340"],
+    ["mita", "la005536860"],
+    ["daimon", "la005522090"],
+    ["shinbashi", "la005520110"],
+    ["higashiginza", "la005531870"],
+    ["takaramachi", "la005522650"],
+    ["nihonbashi", "la005529710"],
+    ["ningyouchou", "la005529780"],
+    ["higashinihon hashi", "la005532170"],
+    ["asakusabashi", "la005500680"],
+    ["kuramae", "la005513010"],
+    ["asakusa", "la005500670"],
+    ["honjoazumabashi", "la005535380"],
+    ["oshiage", "la005506820"]
+  ]
+}, {
+  "line": "toeimita Line",
+  "id": "kaishaBox_006_rnBox0060",
+  "stations": [
+    ["meguro", "la006039110"],
+    ["shiroganedai", "la006018930"],
+    ["shirogane takanawa", "la006018940"],
+    ["mita", "la006036860"],
+    ["shibakouen", "la006017570"],
+    ["onarimon", "la006007040"],
+    ["uchisaiwaichou", "la006004290"],
+    ["hibiya", "la006033040"],
+    ["ootemachi", "la006006050"],
+    ["jinbouchou", "la006020210"],
+    ["suidoubashi", "la006020470"],
+    ["kasuga", "la006008030"],
+    ["hakusan", "la006030270"],
+    ["sengoku", "la006021410"],
+    ["sugamo", "la006020550"],
+    ["nishi sugamo", "la006028890"],
+    ["shin'itabashi", "la006019040"],
+    ["itabashikuyakusho mae", "la006002900"],
+    ["itabashihonchou", "la006002910"],
+    ["honhasunuma", "la006039290"],
+    ["shimura sakaue", "la006017790"],
+    ["shimura sanchoume", "la006017800"],
+    ["renkon", "la006030540"],
+    ["nishi dai", "la006028980"],
+    ["takashima taira", "la006022280"],
+    ["shin takashima taira", "la006019810"],
+    ["nishikou shima taira", "la006029010"]
+  ]
+}, {
+  "line": "toeishinjuku Line",
+  "id": "kaishaBox_006_rnBox0065",
+  "stations": [
+    ["shinjuku", "la006519670"],
+    ["shinjukusanchoume", "la006519690"],
+    ["akebonobashi", "la006500590"],
+    ["ichigaya", "la006502980"],
+    ["kudanshita", "la006512720"],
+    ["jinbouchou", "la006520210"],
+    ["ogawachou", "la006506620"],
+    ["iwamoto machi", "la006503950"],
+    ["bakurou yokoyama", "la006530340"],
+    ["hamachou", "la006531100"],
+    ["morishita", "la006539490"],
+    ["kikugawa", "la006510690"],
+    ["sumiyoshi", "la006520870"],
+    ["nishi ooshima", "la006528430"],
+    ["ooshima", "la006505850"],
+    ["toudai shima", "la006531700"],
+    ["fune hori", "la006534520"],
+    ["kazuyuki kou", "la006503060"],
+    ["mizue", "la006536730"],
+    ["shinozaki", "la006517480"],
+    ["hon hachiman", "la006539350"]
+  ]
+}, {
+  "line": "toei ooedo  Line",
+  "id": "kaishaBox_006_rnBox0070",
+  "stations": [
+    ["shinjukunishiguchi", "la007050010"],
+    ["higashi shinjuku", "la007050015"],
+    ["wakamatsu kawata", "la007050020"],
+    ["ushigome yanagimachi", "la007050025"],
+    ["ushigome kagurazaka", "la007050030"],
+    ["iidabashi", "la007001820"],
+    ["kasuga", "la007008030"],
+    ["hongousanchoume", "la007035340"],
+    ["ueno okachimachi", "la007050035"],
+    ["shin okachimachi", "la007050040"],
+    ["kuramae", "la007013010"],
+    ["ryougoku", "la007050045"],
+    ["morishita", "la007039490"],
+    ["kiyoshi sumi shirakawa", "la007050050"],
+    ["monzennakamachi", "la007039600"],
+    ["gatsu shima", "la007024650"],
+    ["kachi doki", "la007050055"],
+    ["tsukiji shijou", "la007050060"],
+    ["shiodome", "la007053930"],
+    ["daimon", "la007022090"],
+    ["akabane hashi", "la007050065"],
+    ["azabujuuban", "la007000800"],
+    ["roppongi", "la007041560"],
+    ["aoyamaitchoume", "la007000250"],
+    ["kokuritsukyougijou", "la007014730"],
+    ["yoyogi", "la007041280"],
+    ["shinjuku", "la007019670"],
+    ["tochou mae", "la007026200"],
+    ["nishishinjuku go choume", "la007028870"],
+    ["nakano sakaue", "la007027320"],
+    ["higashinakano", "la007032110"],
+    ["nakai", "la007026830"],
+    ["ochiai minami nagasaki", "la007006960"],
+    ["shin ekoda", "la007019110"],
+    ["nerima", "la007029900"],
+    ["toyoshima sono", "la007026130"],
+    ["nerima kasugachou", "la007029910"],
+    ["hikari ga oka", "la007032620"]
+  ]
+}, {
+  "line": "toden arakawa Line",
+  "id": "kaishaBox_006_rnBox0085",
+  "stations": [
+    ["waseda", "la008541740"],
+    ["omokage hashi", "la008507220"],
+    ["gakushuuin shita", "la008507670"],
+    ["kishimojin mae", "la008510820"],
+    ["toden zatsu tsukasa ke tani", "la008521650"],
+    ["higashiikebukuro shi choume", "la008531610"],
+    ["mukaihara", "la008538630"],
+    ["ootsukaeki mae", "la008506020"],
+    ["sugamo nitta", "la008520560"],
+    ["koushin tsuka", "la008514060"],
+    ["shin koushin tsuka", "la008519480"],
+    ["nishi ke hara shi choume", "la008528570"],
+    ["takino kawa itchoume", "la008522780"],
+    ["asuka yama", "la008500980"],
+    ["oujieki mae", "la008505200"],
+    ["sakaemachi", "la008515770"],
+    ["kajiwara", "la008508010"],
+    ["arakawashakomae", "la008501480"],
+    ["arakawa yuuenchi mae", "la008501510"],
+    ["shou dai", "la008506850"],
+    ["miya no mae", "la008538320"],
+    ["kumano mae", "la008512890"],
+    ["higashio kyuu sanchoume", "la008531740"],
+    ["machi ya nichoume", "la008535810"],
+    ["machi ya ekimae", "la008535800"],
+    ["arakawa shichi choume", "la008501490"],
+    ["arakawa nichoume", "la008501500"],
+    ["arakawaku yakusho mae", "la008501470"],
+    ["arakawa ichi naka mae", "la008550070"],
+    ["san no wa hashi", "la008538140"]
+  ]
+}, {
+  "line": "nippori . sha nin Lineaa",
+  "id": "kaishaBox_006_rnBox0765",
+  "stations": [
+    ["nippori", "la076529650"],
+    ["nishinippori", "la076529160"],
+    ["shakudo shougakkou mae", "la076580815"],
+    ["kumano mae", "la076512890"],
+    ["adachi shou dai", "la076580816"],
+    ["ougi oohashi", "la076580817"],
+    ["takano", "la076580818"],
+    ["kou kita", "la076580819"],
+    ["nishiarai taishi nishi", "la076580820"],
+    ["tani zai ie", "la076580821"],
+    ["sha nin kouen", "la076580822"],
+    ["sha nin", "la076580823"],
+    ["ken numa dai oya mizu kouen", "la076580824"]
+  ]
+}, {
+  "line": "keio inokashira Line",
+  "id": "kaishaBox_007_rnBox0265",
+  "stations": [
+    ["shibuya", "la026517640"],
+    ["kamiizumi", "la026519790"],
+    ["komabatoudaimae", "la026515370"],
+    ["ikenoue", "la026502030"],
+    ["shimokitazawa", "la026518010"],
+    ["shin dai ta", "la026519800"],
+    ["higashi matsubara", "la026532410"],
+    ["meidaimae", "la026539030"],
+    ["ei fuku machi", "la026504780"],
+    ["nishinaga fuku", "la026528380"],
+    ["hamada yama", "la026531090"],
+    ["takaido", "la026522170"],
+    ["fujimi ke oka", "la026534030"],
+    ["kugayama", "la026512460"],
+    ["mitaka dai", "la026536890"],
+    ["inogashirakouen", "la026503510"],
+    ["kichijouji", "la026511640"]
+  ]
+}, {
+  "line": "keio keibajo  Line",
+  "id": "kaishaBox_007_rnBox0270",
+  "stations": [
+    ["higashi fuchuu", "la027032330"],
+    ["fuchuu keiba seimonmae", "la027034350"]
+  ]
+}, {
+  "line": "keioshin Line",
+  "id": "kaishaBox_007_rnBox0275",
+  "stations": [
+    ["shinjuku", "la027519670"],
+    ["shodai", "la027530800"],
+    ["hatagaya", "la027530610"]
+  ]
+}, {
+  "line": "keio Line",
+  "id": "kaishaBox_007_rnBox0280",
+  "stations": [
+    ["shinjuku", "la028019670"],
+    ["sasazuka", "la028016280"],
+    ["dai ta hashi", "la028021960"],
+    ["meidaimae", "la028039030"],
+    ["shimotakai ko", "la028018140"],
+    ["sakurajousui", "la028016130"],
+    ["kamikita sawa", "la028009130"],
+    ["yahatayama", "la028030710"],
+    ["ashi hana kouen", "la028041450"],
+    ["chitosekarasuyama", "la028024130"],
+    ["senkawa", "la028021360"],
+    ["tsutsuji ke oka", "la028024850"],
+    ["shibasaki", "la028017580"],
+    ["kuni ryou", "la028014740"],
+    ["fuda", "la028034190"],
+    ["choufu", "la028024440"],
+    ["nishi choufu", "la028029060"],
+    ["hida kyuu", "la028026310"],
+    ["musashino dai", "la028038820"],
+    ["ta ma reien", "la028023640"],
+    ["higashi fuchuu", "la028032330"],
+    ["fuchuu", "la028034340"],
+    ["bubaigawara", "la028034560"],
+    ["nakagawara", "la028027000"],
+    ["hijiri ato sakuragaoka", "la028021020"],
+    ["hyaku kusa sono", "la028039160"],
+    ["takahatafudou", "la028022520"],
+    ["minami taira", "la028037620"],
+    ["hirayama joushi kouen", "la028033390"],
+    ["naganuma", "la028027270"],
+    ["kitano", "la028011420"],
+    ["keiouhachiouji", "la028013370"]
+  ]
+}, {
+  "line": "keio dobutsuen Line",
+  "id": "kaishaBox_007_rnBox0285",
+  "stations": [
+    ["tama doubutsu kouen", "la028523550"]
+  ]
+}, {
+  "line": "keio sagamihara Line",
+  "id": "kaishaBox_007_rnBox0290",
+  "stations": [
+    ["choufu", "la029024440"],
+    ["keioutama kawa", "la029013340"],
+    ["keiou yomiuri rando", "la029013390"],
+    ["inagi", "la029003230"],
+    ["keiou nagayama", "la029013360"],
+    ["keioutama sentaa", "la029013350"],
+    ["keiou horinouchi", "la029013380"],
+    ["minamioosawa", "la029037360"],
+    ["tama sakai", "la029023480"],
+    ["keiouinadatsutsumi", "la029013320"],
+    ["wakabadai", "la029041610"],
+    ["hashimoto", "la029030490"]
+  ]
+}, {
+  "line": "keio takao  Line",
+  "id": "kaishaBox_007_rnBox0295",
+  "stations": [
+    ["kitano", "la029511420"],
+    ["keiou katakura", "la029513330"],
+    ["yamada", "la029540320"],
+    ["mejiro dai", "la029539130"],
+    ["hazama", "la029530430"],
+    ["takao", "la029522180"],
+    ["takaosanguchi", "la029522210"]
+  ]
+}, {
+  "line": "keiseioshiage  Line",
+  "id": "kaishaBox_008_rnBox0540",
+  "stations": [
+    ["aoto", "la054000190"],
+    ["keisei tateishi", "la054013610"],
+    ["shi tsu ki", "la054041140"],
+    ["hachi kou", "la054040170"],
+    ["keisei ei fune", "la054013670"],
+    ["oshiage", "la054006820"]
+  ]
+}, {
+  "line": "keisei kanamachi Line",
+  "id": "kaishaBox_008_rnBox0550",
+  "stations": [
+    ["keiseitakasago", "la055013600"],
+    ["shibamata", "la055017620"],
+    ["keisei kanemachi", "la055013550"]
+  ]
+}, {
+  "line": "keiseihon Line",
+  "id": "kaishaBox_008_rnBox0555",
+  "stations": [
+    ["keiseiueno", "la055513510"],
+    ["nippori", "la055529650"],
+    ["shinzou kawashima", "la055520290"],
+    ["machi ya", "la055535790"],
+    ["senju oohashi", "la055521440"],
+    ["keiseisekiya", "la055513590"],
+    ["hori setsu shoubu sono", "la055535210"],
+    ["o hana chaya", "la055507120"],
+    ["aoto", "la055500190"],
+    ["keiseitakasago", "la055513600"],
+    ["keisei koiwa", "la055513560"],
+    ["edogawa", "la055504920"],
+    ["kounodai", "la055514310"],
+    ["ichikawa makoto kan", "la055503020"],
+    ["kanno", "la055520540"],
+    ["keisei hachiman", "la055513710"],
+    ["oni etsu", "la055507050"],
+    ["keisei nakayama", "la055513640"],
+    ["higashinakayama", "la055532130"],
+    ["keisei nishifuna", "la055513660"],
+    ["umigami", "la055507470"],
+    ["keiseifunabashi", "la055513680"],
+    ["daijinguushita", "la055521940"],
+    ["funabashikeibajou", "la055534490"],
+    ["yatsu", "la055540000"],
+    ["keisei tsudanuma", "la055513630"],
+    ["keisei ookubo", "la055513530"],
+    ["mi momi", "la055538200"],
+    ["yachiyodai", "la055539970"],
+    ["keisei oowada", "la055513540"],
+    ["katsuta dai", "la055508540"],
+    ["shizu", "la055517410"],
+    ["yuukari ga oka", "la055540660"],
+    ["keisei usui", "la055513520"],
+    ["keisei sakura", "la055513570"],
+    ["taisa kura", "la055505800"],
+    ["keisei sake \u3005 i", "la055513580"],
+    ["shuu ware sandou", "la055521630"],
+    ["kou tsu no mori", "la055514180"],
+    ["keiseinarita", "la055513650"],
+    ["higashinarita", "la055532150"],
+    ["kuukou daini biru", "la055512430"],
+    ["naritakuukou", "la055528020"]
+  ]
+}, {
+  "line": "keikyuu hon Line",
+  "id": "kaishaBox_009_rnBox0095",
+  "stations": [
+    ["sengakuji", "la009521340"],
+    ["shinagawa", "la009517460"],
+    ["kita shinagawa", "la009511210"],
+    ["shinbaba", "la009520140"],
+    ["aomono yokochou", "la009500240"],
+    ["same su", "la009516530"],
+    ["tachiaigawa", "la009523090"],
+    ["oomori kaigan", "la009506380"],
+    ["heiwa shima", "la009534650"],
+    ["oomori machi", "la009506400"],
+    ["ume yashiki", "la009504660"],
+    ["keikyuu kamata", "la009513410"],
+    ["zoushiki", "la009521660"],
+    ["roku kyoudo te", "la009541470"],
+    ["keikyuu kawasaki", "la009513420"],
+    ["hatchou nawate", "la009530810"],
+    ["tsurumi shijou", "la009525080"],
+    ["keikyuu tsurumi", "la009513460"],
+    ["kagetsu soujidera", "la009507720"],
+    ["nama mugi", "la009527900"],
+    ["keikyuu shinkoyasu", "la009513440"],
+    ["koyasu", "la009515450"],
+    ["kanagawashinmachi", "la009508640"],
+    ["keikyuu higashikanagawa", "la009527020"],
+    ["kanagawa", "la009508630"],
+    ["yokohama", "la009540940"],
+    ["tobe", "la009526340"],
+    ["nichi no demachi", "la009532970"],
+    ["ougon machi", "la009514570"],
+    ["minami oota", "la009537370"],
+    ["i tsuchi ke tani", "la009503190"],
+    ["hiroaki tera", "la009512910"],
+    ["kamioooka", "la009509090"],
+    ["byoubu ura", "la009533140"],
+    ["sugita", "la009520580"],
+    ["keikyuu tomioka", "la009513470"],
+    ["nou midai", "la009529940"],
+    ["kanazawa bunko", "la009508660"],
+    ["kanazawahakkei", "la009508650"],
+    ["oppama", "la009506990"],
+    ["keikyuu taura", "la009513450"],
+    ["an hari tsuka", "la009501750"],
+    ["itsumi", "la009534760"],
+    ["shio nyuu", "la009517030"],
+    ["yokosuka chuuou", "la009540900"],
+    ["kenritsudai gaku", "la009513490"],
+    ["hori no nai", "la009535240"],
+    ["keikyuu ootsu", "la009513400"],
+    ["uma hori kaigan", "la009536130"],
+    ["uraga", "la009504680"]
+  ]
+}, {
+  "line": "keikyuu kuuko Line",
+  "id": "kaishaBox_009_rnBox0100",
+  "stations": [
+    ["keikyuu kamata", "la010013410"],
+    ["kouji tani", "la010014030"],
+    ["ootorii", "la010006110"],
+    ["ana shu inari", "la010001130"],
+    ["tenkuu hashi", "la010025350"],
+    ["hanedakuukou daisan taaminaru", ""],
+    ["hanedakuukou daiichi . daini taaminaru", ""]
+  ]
+}, {
+  "line": "odakyuu Line",
+  "id": "kaishaBox_010_rnBox0240",
+  "stations": [
+    ["shinjuku", "la024019670"],
+    ["minami shinjuku", "la024037560"],
+    ["sanguu hashi", "la024016710"],
+    ["yoyogi hachiman", "la024041310"],
+    ["yoyogiuehara", "la024041290"],
+    ["higashikitazawa", "la024031840"],
+    ["shimokitazawa", "la024018010"],
+    ["setagayadaita", "la024021220"],
+    ["ume ke oka", "la024004590"],
+    ["goutokuji", "la024014220"],
+    ["kyoudou", "la024012020"],
+    ["chitosefunabashi", "la024024140"],
+    ["shishigayaookura", "la024021760"],
+    ["seijougakuenmae", "la024020990"],
+    ["kitami", "la024011580"],
+    ["komae", "la024015260"],
+    ["izumitamagawa", "la024002510"],
+    ["tsurukawa", "la024024990"],
+    ["tamagawagakuen mae", "la024023460"],
+    ["machida", "la024035780"],
+    ["noborito", "la024030130"],
+    ["mukougaokayuuen", "la024038610"],
+    ["ikuta", "la024001950"],
+    ["yomiurirando mae", "la024041270"],
+    ["yuri ke oka", "la024040770"],
+    ["shinyuri ke oka", "la024020370"],
+    ["kakio", "la024007590"],
+    ["sagamioono", "la024015920"]
+  ]
+}, {
+  "line": "odakyuu tama Line",
+  "id": "kaishaBox_010_rnBox0250",
+  "stations": [
+    ["odakyuu nagayama", "la025006890"],
+    ["odakyuu tama sentaa", "la025006880"],
+    ["karaki ta", "la025009710"],
+    ["shinyuri ke oka", "la025020370"],
+    ["gogatsu dai", "la025016350"],
+    ["kuri taira", "la025013060"],
+    ["kurokawa", "la025013140"],
+    ["haruhi no", "la025075895"]
+  ]
+}, {
+  "line": "tama toshi monoreeru",
+  "id": "kaishaBox_011_rnBox0300",
+  "stations": [
+    ["tama sentaa", "la030023490"],
+    ["matsu ga tani", "la030035880"],
+    ["ootsuka . teikyoudaigaku", "la030006010"],
+    ["chuuoudaigaku . meiseidaigaku", "la030024320"],
+    ["tama doubutsu kouen", "la030023550"],
+    ["hodo kubo", "la030035160"],
+    ["takahatafudou", "la030022520"],
+    ["man gan tera", "la030036220"],
+    ["koushuukaidou", "la030014050"],
+    ["shibasaki taiikukan", "la030017590"],
+    ["tachikawa minami", "la030023120"],
+    ["tachikawa kita", "la030023110"],
+    ["takamatsu", "la030022550"],
+    ["tachihi", "la030023150"],
+    ["izumi taiikukan", "la030002500"],
+    ["sunagawa shichi ban", "la030020760"],
+    ["tamagawajousui", "la030023470"],
+    ["sakura kaidou", "la030016060"],
+    ["kamikita dai", "la030009140"]
+  ]
+}, {
+  "line": "rinkai  Line",
+  "id": "kaishaBox_012_rnBox0090",
+  "stations": [
+    ["shinkiba", "la009019330"],
+    ["shinonome", "la009017510"],
+    ["kokusai tenjijou", "la009014660"],
+    ["toukyou terepooto", "la009025630"],
+    ["ten'ou su airu", "la009025440"],
+    ["shinagawa shiisaido", "la009053940"],
+    ["ooichou", "la009005480"],
+    ["oosaki", "la009005780"]
+  ]
+}, {
+  "line": "hokuso Line",
+  "id": "kaishaBox_013_rnBox0560",
+  "stations": [
+    ["keiseitakasago", "la056013600"],
+    ["shin shibamata", "la056019660"],
+    ["ya setsu", "la056039760"],
+    ["kitaguni fun", "la056011160"],
+    ["akiyama", "la056000490"],
+    ["higashi matsudo", "la056032400"],
+    ["matsu hi dai", "la056036060"],
+    ["oomachi", "la056006270"],
+    ["shin kama ke tani", "la056019270"],
+    ["nishishirai", "la056028840"],
+    ["shirai", "la056018890"],
+    ["komuro", "la056015400"],
+    ["chiba nyuutaun chuuou", "la056024230"],
+    ["in nishimaki no hara", "la056003970"],
+    ["inba nippon idai", "la056003990"]
+  ]
+}, {
+  "line": "tokyo monoreeru",
+  "id": "kaishaBox_014_rnBox0080",
+  "stations": [
+    ["hamamatsuchou", "la008031160"],
+    ["ten'ou su airu", "la008025440"],
+    ["ooikeiba ba mae", "la008005410"],
+    ["ryuutsuu sentaa", "la008041350"],
+    ["shouwa shima", "la008018760"],
+    ["seibi ba", "la008031030"],
+    ["tenkuu hashi", "la008025350"],
+    ["hanedakuukou daisan taaminaru", ""],
+    ["shin seibi ba", ""],
+    ["hanedakuukou daiichi taaminaru", ""],
+    ["hanedakuukou daini taaminaru", "la008075900"]
+  ]
+}, {
+  "line": "shinkotsuu yurikamome",
+  "id": "kaishaBox_015_rnBox0075",
+  "stations": [
+    ["shinbashi", "la007520110"],
+    ["shiodome", "la007553930"],
+    ["takeshiba", "la007522890"],
+    ["hinode", "la007532960"],
+    ["shibaura fu atama", "la007517560"],
+    ["o daiba kaihin kouen", "la007506860"],
+    ["daiba", "la007522030"],
+    ["toukyoukokusai kuruuzutaaminaru", "la007534550"],
+    ["terekomusentaa", "la007525310"],
+    ["seikai", "la007500230"],
+    ["toukyou biggusaito", ""],
+    ["ariake", "la007501580"],
+    ["ariake tenisu no mori", "la007579995"],
+    ["shijou mae", "la007580000"],
+    ["shin toyosu", "la007580005"],
+    ["toyosu", "la007526540"]
+  ]
+}, {
+  "line": "saitama kosokutetsudo",
+  "id": "kaishaBox_016_rnBox0640",
+  "stations": [
+    ["akabane iwabuchi", "la064000390"],
+    ["kawaguchi moto sato", "la064053820"],
+    ["minami hato ke tani", "la064053825"],
+    ["hato ke tani", "la064053830"],
+    ["araijuku", "la064053835"],
+    ["totsuka an gyou", "la064053840"],
+    ["higashikawaguchi", "la064031820"],
+    ["urawa bi sono", "la064053845"]
+  ]
+}, {
+  "line": "tsukuba ekusupuresu",
+  "id": "kaishaBox_017_rnBox0760",
+  "stations": [
+    ["akihabara", "la076000480"],
+    ["shin okachimachi", "la076050040"],
+    ["asakusa", "la076076085"],
+    ["minami senju", "la076037600"],
+    ["kitasenju", "la076011310"],
+    ["aoi", "la076076090"],
+    ["roku machi", "la076076095"],
+    ["yashio", "la076076100"],
+    ["misato chuuou", "la076076105"],
+    ["minami nagareyama", "la076037670"],
+    ["nagareyama sentorarupaaku", "la076076120"],
+    ["nagareyama ootakano mori", "la076076125"],
+    ["kashiwa no ha kyanpasu", "la076076130"],
+    ["kashiwa tanaka", "la076076135"],
+    ["moriya", "la076039550"],
+    ["mirai taira", "la076076140"],
+    ["midorino", "la076076145"],
+    ["banpaku kinenkouen", "la076076150"],
+    ["kenkyuu gakuen", "la076076155"],
+    ["tsukuba", "la076076160"]
+  ]
+}, {
+  "line": "narita sukaiakusesu",
+  "id": "kaishaBox_272_rnBox0563",
+  "stations": [
+    ["keiseiueno", "la056313510"],
+    ["nippori", "la056329650"],
+    ["aoto", "la056300190"],
+    ["keiseitakasago", "la056313600"],
+    ["higashi matsudo", "la056332400"],
+    ["shin kama ke tani", "la056319270"],
+    ["chiba nyuutaun chuuou", "la056324230"],
+    ["inba nippon idai", "la056303990"],
+    ["narita yukawa", "la056303995"],
+    ["kuukou daini biru", "la056312430"],
+    ["naritakuukou", "la056328020"]
+  ]
+}]
